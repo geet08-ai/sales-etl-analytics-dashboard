@@ -1,0 +1,10 @@
+order_id,customer,product,quantity,price
+101,Ravi,Laptop,1,50000
+102,Priya,Phone,2,20000
+103,Anil,Keyboard,3,1500
+104,Meena,Mouse,2,800
+105,Ravi,Laptop,1,50000
+106,Kiran,Monitor,1,12000
+107,,Headphones,2,1500
+108,Sita,Tablet,1,invalid
+109,Rahul,Keyboard,2,1500
